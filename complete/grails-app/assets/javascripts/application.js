@@ -7,6 +7,7 @@
 //
 //= require webjars/jquery/%/dist/jquery.js
 //= require webjars/bootstrap/%/dist/js/bootstrap.bundle.js
+//= require webjars/htmx.org/%/dist/htmx.min.js
 //= require_self
 
 if (typeof jQuery !== 'undefined') {
